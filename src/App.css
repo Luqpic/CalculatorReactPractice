@@ -99,7 +99,7 @@ h1 {
 }
 
 .watermark {
-  position: fixed;
+  position: flex;
   bottom: 20px;
   right: 20px;
   color: #000;
